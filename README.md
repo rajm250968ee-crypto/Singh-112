@@ -1,16 +1,16 @@
-# Hi, I'm Raj Singh Khatik 👋
+# Hi, I'm Raj Singh Khatik 
 
 ### M.Tech Student | NIT Calicut | Digital Design & Instrumentation
 
 I'm pursuing an M.Tech in Instrumentation and Control Systems at NIT Calicut, with an academic background in Electrical Engineering. I'm interested in digital design, Verilog HDL, control systems, and sensor fusion applications.
 
-### 🛠️ Technical Skills
+### Technical Skills
 - **HDL & Digital Design:** Verilog HDL, RTL Design, Digital Electronics
 - **Programming:** Python, C
 - **Tools:** Xilinx Vivado, MATLAB, Jetson
 - **Core Subjects:** Analog Electronics, Control Systems, Digital Signal Processing
 
-### 🚀 Projects
+### Projects
 
 **1. LiDAR–Camera Fusion for Autonomous Driving**
 - Implemented YOLOv8-based object detection using the KITTI dataset.
@@ -27,11 +27,11 @@ I'm pursuing an M.Tech in Instrumentation and Control Systems at NIT Calicut, wi
 **4. Smart Dustbin using Ultrasonic and IR Sensors**
 - Developed an automatic lid-opening system with waste-level detection.
 
-### 🎓 Education
+### Education
 - **M.Tech:** Instrumentation and Control Systems — NIT Calicut
 - **B.Tech:** Electrical Engineering — Guru Jambheshwar University
 
-### 🤝 Connect with Me
+### Connect with Me
 - **Email:** tomarajdev3297@gmail.com
 - **LinkedIn:**https://www.linkedin.com/in/raj-singh-295176218?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
